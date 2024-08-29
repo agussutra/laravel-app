@@ -12,5 +12,21 @@
  make you sure install [Node.js](https://nodejs.org/) and [npm](https://www.npmjs.com/)
 
  ```bash
- run npm i && npm run dev 
- run php artisan migrate --seed
+    node -v
+    composer -v
+    php -v
+
+### **Installation**
+```markdown
+    1. Laravel run
+
+    ```bash
+    composer i 
+    php artisan serve
+    php artisan migrate --seed
+    ```
+    2. Javascript / Inertia React run
+
+    ```bash
+    npm i && npm run dev
+    ```
