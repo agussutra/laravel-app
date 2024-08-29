@@ -18,17 +18,16 @@
     php -v
 ```
 
-### **Installation**
-```markdown
-    1. Laravel run
-
-    ```bash
+### Laravel Run
+```bash
     composer i 
     php artisan serve
     php artisan migrate --seed
-    ```
-    2. Javascript / Inertia React run
-
-    ```bash
+```
+### Inertia React Run
+ ```bash
     npm i && npm run dev
-    ```
+```
+
+### Library
+React Hot Toast
