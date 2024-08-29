@@ -8,6 +8,7 @@
 4. Send email for email confirmation after new user created. (Implement queue)
 5. Create an api endpoint for mass user creation in single call. The endpoint must be capable to handle upto 1000 email & password in request body.
 
+
 ## Prerequisites
  make you sure install [Node.js](https://nodejs.org/) and [npm](https://www.npmjs.com/)
 
@@ -15,6 +16,7 @@
     node -v
     composer -v
     php -v
+```
 
 ### **Installation**
 ```markdown
